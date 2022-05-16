@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adewalex1.
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning DevOps.
-- 💞️ I’m looking to collaborate with DevOps Engineers.
+- 👀 I’m interested in Software Development Cycle.
+- 🌱 I’m currently working as DevOps Engineer.
+- 💞️ I’m looking to collaborate with DevOps Engineers and Developers.
 - 📫 How to reach me: dewaleibrahim@gmail.com
 
 <!---
